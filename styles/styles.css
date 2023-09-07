@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+
+.input-field {
+    color: rgb(0, 1, 1);
+    display: block;
+    padding: 10px;
+    margin: 20px;
+}
+
+.btn {
+    margin-left: 20px;
+    padding: 10px;
+}
